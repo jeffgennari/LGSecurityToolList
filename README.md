@@ -24,6 +24,7 @@ Use) race conditions
 ## Design Analysis / Threat Modeling
  * [Microsoft Attack Surface Analyzer](https://github.com/Microsoft/AttackSurfaceAnalyzer): Attack Surface Analyzer is a Microsoft developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
  *  [Microsoft Threat Modeling Tool](https://aka.ms/threatmodelingtool): The Microsoft Threat Modeling Tool makes threat modeling easier for all developers through a standard notation for visualizing system components, data flows, and security boundaries.
+ *  [Threat Dragon](https://jeffgennari.github.io/LGSecurityToolList) OWASP threat modeling tool.
   
 ## Penetration Testing
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework): A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.
